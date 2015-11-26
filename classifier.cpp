@@ -15,10 +15,10 @@
 #include <opencv2/imgproc/imgproc.hpp>
 #include <opencv2/ml/ml.hpp>
 #include <opencv2/objdetect/objdetect.hpp>
-#include <types.hpp>
-#include <utils.hpp>
-#include <lbp/histogram.hpp>
-#include <lbp/lbp.hpp>
+#include "types.hpp"
+#include "utils.hpp"
+#include "lbp/histogram.hpp"
+#include "lbp/lbp.hpp"
 
 #include"confs.h"
 #include "classifier.hpp"

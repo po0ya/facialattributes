@@ -1,4 +1,4 @@
-# Facial attribute classifier
+# Facial attributes classifiers
 This is the code for the following paper:
 > P. Samangouei, V. M. Patel, and R. Chellappa. Attribute-based active authentication on mobile devices. In Biometrics: Theory, Applications and Systems–BTAS. 2015.
 

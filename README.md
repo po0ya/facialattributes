@@ -5,7 +5,7 @@ This is the code for the following paper:
 Note: it's a research code and will evolve over time. If you face any issues compiling it, or incomplete documentation, please contact me.
 
 Although it has both the training and testing code, main.cpp is just for getting the attributes for a list of cropped and aligned faces.
-> $ ./main <cls_paths> <images_path> <output_path>
+> $ ./main cls_paths images_path output_path
 
 #Prereq:
 * OpenCV
